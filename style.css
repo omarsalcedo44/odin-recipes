@@ -1,3 +1,53 @@
 body {
     font-family:Arial, Helvetica, sans-serif;
 }
+
+li {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+ul#recipes {
+    margin: 0%;
+    padding: 0%;
+}
+
+#title{
+    text-align:center;
+}
+
+.mac {
+    background-color: yellow;
+}
+
+.shrimp {
+    background-color: salmon;
+}
+
+.chicken {
+    background-color:blanchedalmond;
+}
+
+li.items {
+    text-align: left;
+    padding: 0%;
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto
+}
+
+.subheading {
+    font-size: 25px;
+}
+
+.steps {
+    text-align: left;
+    font-size: 18px;
+    padding: 0%;
+}
